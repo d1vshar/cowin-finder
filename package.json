@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "cowin-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Divyanshu Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.0",
+    "telegraf": "^4.3.0"
+  }
+}
